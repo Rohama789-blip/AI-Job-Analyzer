@@ -48,8 +48,6 @@ git clone https://github.com/Rohama789-blip/AI-Job-Analyzer.git
 cd AI-Job-Description-Analyzer
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
-
 ### 2. Create a virtual environment
 
 ```bash
