@@ -1,0 +1,4 @@
+
+AI_PROVIDER=groq
+GROQ_API_KEY=paste_your_actual_groq_api_key_here
+GROQ_MODEL=openai/gpt-oss-120b
