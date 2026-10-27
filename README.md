@@ -1,5 +1,9 @@
 # 💼 SmartHire AI — Job Description Analyzer
 
+Analyze job descriptions with AI and extract essential hiring insights.
+
+🚀 Live Demo: https://smarthire-ai-rk.streamlit.app/
+
 SmartHire AI is an AI-powered job description analyzer built with Python, LangGraph, Pydantic, and Streamlit. It analyzes job descriptions, extracts important information, classifies jobs, identifies technical and soft skills, and generates a structured hiring report.
 
 ## ✨ Features
